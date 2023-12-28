@@ -5,7 +5,7 @@
 
 👯 I’m looking to collaborate on projects that involved space-related topics, such as Stellarium, when the time is right.
 
-📫 How to reach me: x.com/kire_jm
+📫 How to reach me: https://x.com/kire_jm
 
 😄 Pronouns: she/her/ella
 
