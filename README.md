@@ -5,11 +5,11 @@
 
 👯 I’m looking to collaborate on projects that involved space-related topics, such as Stellarium, when the time is right.
 
-👩🏽‍⚕️ My background is in emergency medicine, but I have studied astronomy on-and-off since I was in grade school. It's a lifelong dream of mine to become an astronomer. I was also a helicopter mechanic for some time specializing in hydraulic systems and airframes.
+👩🏽‍⚕️ My background is in emergency medicine, but I have studied astronomy on-and-off since I was in grade school. It's a lifelong dream of mine to become an astronomer. 
 
 📫 How to reach me: https://x.com/kire_jm
 
 😄 Pronouns: she/her/ella
 
-⚡ Fun fact: I was born and raised in Cuba. When I came the US with my mom, I graduated high school and joined the Marines. I was able to see the world and do a lot for others. I hope to bring the same to the table wherever I code.
+⚡ Fun fact: I was also a helicopter mechanic for some time specializing in airframes and hydraulic systems.
 
