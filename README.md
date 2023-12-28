@@ -5,7 +5,7 @@
 
 👯 I’m looking to collaborate on projects that involved space-related topics, such as Stellarium, when the time is right.
 
-👩🏽‍⚕️ My background is in emergency medicine, and I have studied astronomy on-and-off since I was in grade school. It's a lifelong dream of mine to become an astronomer.
+👩🏽‍⚕️ My background is in emergency medicine, but I have studied astronomy on-and-off since I was in grade school. It's a lifelong dream of mine to become an astronomer. I was also a helicopter mechanic for some time specializing in hydraulic systems and airframes.
 
 📫 How to reach me: https://x.com/kire_jm
 
