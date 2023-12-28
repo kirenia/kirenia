@@ -11,5 +11,5 @@
 
 😄 Pronouns: she/her/ella
 
-⚡ Fun fact: I was also a helicopter mechanic for some time specializing in airframes and hydraulic systems.
+⚡ Fun fact: I served as helicopter mechanic in the US Marines specializing in airframes and hydraulic systems.
 
