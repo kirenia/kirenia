@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning Python on Replit's 100 Days of Code, and I've returned to college to study astronomy, a lifelong pursuit of mine. I'm inching closer to a degree in the field and very excited for what's to come.
 
-👯 I’m looking to collaborate on projects that involved space-related topics, such as Stellarium, when the time is right.
+👯 I’m not ready to collaborate, but I am always open to advice and guidance from those genuinely willing to give it.
 
 👩🏽‍⚕️ My background is in emergency medicine, but I have studied astronomy on-and-off since I was in grade school. It's a lifelong dream of mine to become an astronomer. 
 
