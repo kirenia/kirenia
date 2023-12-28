@@ -5,6 +5,8 @@
 
 👯 I’m looking to collaborate on projects that involved space-related topics, such as Stellarium, when the time is right.
 
+👩🏽‍⚕️ My background is in emergency medicine, and I have studied astronomy on-and-off since I was in grade school. It's a lifelong dream of mine to become an astronomer.
+
 📫 How to reach me: https://x.com/kire_jm
 
 😄 Pronouns: she/her/ella
