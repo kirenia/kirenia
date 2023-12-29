@@ -4,11 +4,11 @@
 
 🌱 I'm learning Python through Replit's 100 Days of Code.
 
-👯 I'm not yet ready for collaboration, but I will warmly welcome advice and guidance from those genuinely interested in offering support.
+👯 I'm not yet ready for collaboration. I warmly welcome advice and guidance from those genuinely interested in offering support.
 
-👩🏽‍⚕️ My background is in emergency medicine, but I'm switching gears and have returned to college to pursue my childhood dream of becoming an astronomer. 
+👩🏽‍⚕️ My background is in emergency medicine. I left the field to look after my son, and I've returned to college to pursue my childhood dream of becoming an astronomer. 
 
-📫 Hit me up at https://x.com/kire_jm.
+📫 Reach me here: https://x.com/kire_jm or kire@asu.edu
 
 😄 Pronouns: she/her/ella
 
