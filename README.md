@@ -8,7 +8,7 @@
 
 👩🏽‍⚕️ My background is in emergency medicine. I left the field to look after my son, and I've returned to college to pursue my childhood dream of becoming an astronomer. 
 
-📫 Contact: x.com/kire_jm or kire@asu.edu
+📫 Contact: https://x.com/kire_jm or kire@asu.edu
 
 😄 Pronouns: she/her/ella
 
