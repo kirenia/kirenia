@@ -1,15 +1,16 @@
-### Hi there 👋 my name is Kirenia (keed-'en-yah), and I'm a beginner at coding.
-🔭 Presently, I am building a weather app in the SheCodes Plus workshop, and I've singed up on Codecademy for a few courses to find my footing and see what kind of work I'd like to do as a coder.
+### Hey there! 👋 I'm Kirenia (keed-'en-yah), a coding newbie.
 
-🌱 I’m currently learning Python on Replit's 100 Days of Code, and I've returned to college to study astronomy, a lifelong pursuit of mine. I'm inching closer to a degree in the field and very excited for what's to come.
+🔭 Right now, I'm working on a weather app in the SheCodes Plus workshop, and I've signed up for some Codecademy courses to try and figure out what coding gigs I'm into.
 
-👯 I’m not ready to collaborate, but I am always open to advice and guidance from those genuinely willing to give it.
+🌱 I'm learning Python through Replit's 100 Days of Code.
 
-👩🏽‍⚕️ My background is in emergency medicine, but I have studied astronomy on-and-off since I was in grade school. It's a lifelong dream of mine to become an astronomer. 
+👯 I'm not yet ready for collaboration, but I will warmly welcome advice and guidance from those genuinely interested in offering support.
 
-📫 How to reach me: https://x.com/kire_jm
+👩🏽‍⚕️ My background is in emergency medicine, but I'm switching gears and have returned to college to pursue my childhood dream of becoming an astronomer. 
+
+📫 Hit me up at https://x.com/kire_jm.
 
 😄 Pronouns: she/her/ella
 
-⚡ Fun fact: I served as helicopter mechanic in the US Marines specializing in airframes and hydraulic systems.
+⚡ Fun fact: I used to be a helicopter mechanic in the US Marines specializing in airframes and hydraulic systems.
 
