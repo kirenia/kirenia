@@ -15,7 +15,7 @@ she/ella · full stack developer
 ![WordPress](https://img.shields.io/badge/WordPress-282a36?style=flat-square&logo=wordpress&logoColor=bd93f9)
 
 - 💖 me irl [kire.omg.lol](https://kire.omg.lol)
-- 🌈 my junkyard [kirenia.github.io](https://githugs.lol)
+- 🌈 my junkyard [githugs.lol](https://githugs.lol)
 - 👾 indie web playground [kire.neocities.org](https://kire.neocities.org)
 
 · ˚ ✧ . ✦ ˚ · ✧ · ˚ . ✦ · ✧ ˚ · . ✦ ˚ ·
