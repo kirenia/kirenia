@@ -18,4 +18,6 @@ she/ella · full stack developer
 - 🌈 my junkyard [githugs.lol](https://githugs.lol)
 - 👾 indie web playground [kire.neocities.org](https://kire.neocities.org)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I8C3241ZEU)
+
 · ˚ ✧ . ✦ ˚ · ✧ · ˚ . ✦ · ✧ ˚ · . ✦ ˚ ·
