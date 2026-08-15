@@ -1,6 +1,6 @@
 ### hi, i'm kire 🌈🪿
 
-she/ella · idaho · full stack developer
+she/ella · full stack developer
 
 <img src="jimothy.gif" alt="jimothy the raccoon, sparkling" width="120" align="right" />
 
