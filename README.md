@@ -14,10 +14,9 @@ she/ella · full stack developer
 ![Postman](https://img.shields.io/badge/Postman-282a36?style=flat-square&logo=postman&logoColor=ffb86c)
 ![WordPress](https://img.shields.io/badge/WordPress-282a36?style=flat-square&logo=wordpress&logoColor=bd93f9)
 
-- 💖 me irl [kire.omg.lol](https://kire.omg.lol)
-- 🌈 my junkyard [githugs.lol](https://githugs.lol)
-- 👾 indie web playground [kire.neocities.org](https://kire.neocities.org)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I8C3241ZEU)
+- 💖 [me irl](https://kire.omg.lol)
+- 🌈 [my junkyard](https://githugs.lol)
+- 👾 [indie web playground](https://kire.neocities.org)
+- 💾 [cyberdeck build guide](https://githugs.lol/cyberdeck/guide.html)
 
 · ˚ ✧ . ✦ ˚ · ✧ · ˚ . ✦ · ✧ ˚ · . ✦ ˚ ·
