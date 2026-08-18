@@ -17,6 +17,6 @@ she/ella · full stack developer
 - 💖 [me irl](https://kire.omg.lol)
 - 🌈 [my junkyard](https://githugs.lol)
 - 👾 [indie web playground](https://kire.neocities.org)
-- 💾 [cyberdeck build guide](https://githugs.lol/cyberdeck/guide.html)
+- 💾 [cyberdeck build guide](https://githugs.lol/cyberdecks/guide.html)
 
 · ˚ ✧ . ✦ ˚ · ✧ · ˚ . ✦ · ✧ ˚ · . ✦ ˚ ·
