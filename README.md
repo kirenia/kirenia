@@ -17,7 +17,7 @@ i build for the open web and make videos about the futures written in old sci-fi
 ![Postman](https://img.shields.io/badge/Postman-ffb86c?style=flat&logo=postman&logoColor=282a36)
 ![WordPress](https://img.shields.io/badge/WordPress-bd93f9?style=flat&logo=wordpress&logoColor=282a36)
 
-- 🌈 [githugs.lol](https://githugs.lol) my dev blog
+
 - 💖 [all my links](https://kire.omg.lol)
 - 🎙️ [A (slightly) Better Tomorrow](https://aslightlybetterpod.com) my self-hosted podcast
 - 📚 [free cyberpunk book club](https://www.patreon.com/collection/2389985) reading NEUROMANCER now
