@@ -4,7 +4,7 @@ full stack developer && sci-fi nerd
 
 <img src="jimothy.gif" alt="jimothy the raccoon, sparkling" width="120" align="right" />
 
-i build for the open web and make videos about the futures written in old sci-fi books.
+i build for the open web and make short videos about the futures written in old sci-fi books.
 
 ![HTML](https://img.shields.io/badge/HTML-ff79c6?style=flat&logo=html5&logoColor=282a36)
 ![CSS](https://img.shields.io/badge/CSS-8be9fd?style=flat&logo=css&logoColor=282a36)
@@ -19,9 +19,5 @@ i build for the open web and make videos about the futures written in old sci-fi
 
 
 - 💖 [all my links](https://kire.omg.lol)
-- 🎙️ [A (slightly) Better Tomorrow](https://aslightlybetterpod.com) my self-hosted podcast
-- 📚 [free cyberpunk book club](https://www.patreon.com/collection/2389985) reading NEUROMANCER now
-- 👾 [indie web playground](https://kire.neocities.org)
-- 💌 githugs@proton.me
 
 · ˚ ✧ . ✦ ˚ · ✧ · ˚ . ✦ · ✧ ˚ · . ✦ ˚ ·
