@@ -29,7 +29,7 @@ I build for the open web and make short videos about the futures imagined in old
 ## find me
 
 - 💼 [LinkedIn](https://linkedin.com/in/kirenia)
-- 🎙️ [my podcast](https://aslightlybetterpod.com)
+- 🎙️ [my website](https://githugs.lol)
 - 💖 [everything else](https://kire.omg.lol)
 
 · ˚ ✧ . ✦ ˚ · ✧ · ˚ . ✦ · ✧ ˚ · . ✦ ˚ ·
