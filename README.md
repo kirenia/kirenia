@@ -1,6 +1,4 @@
-# hola, i'm kire 🌈🪿
-
-## full stack developer
+#3 hola, i'm kire 🌈🪿 full stack developer in the US
 
 <img src="jimothy.gif" alt="jimothy the raccoon, sparkling" width="120" align="right" />
 
