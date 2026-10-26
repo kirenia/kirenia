@@ -1,4 +1,4 @@
-# hi, i'm kire 🌈🪿
+# hola, i'm kire 🌈🪿
 
 ## full stack developer
 
