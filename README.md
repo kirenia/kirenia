@@ -1,10 +1,10 @@
-## hola, i'm kire, a full stack developer in the US.
+## Hola, I'm kire, a full stack developer based in the US.
 
 <img src="jimothy.gif" alt="jimothy the raccoon, sparkling" width="120" align="right" />
 
 I build for the open web and make short videos about the futures imagined in old sci-fi books. I almost didn’t go back to finish my dev degree, but I want to finish what I started, and I’m hoping to keep going at ASU’s School for the Future of Innovation in Society.
 
-## some of my favorite tools
+### My Toolkit
 
 ![Git](https://img.shields.io/badge/Git-fb7474?style=flat&logo=git&logoColor=282a36)
 ![HTML](https://img.shields.io/badge/HTML-fba074?style=flat&logo=html5&logoColor=282a36)
@@ -24,7 +24,7 @@ I build for the open web and make short videos about the futures imagined in old
 ![CSS](https://img.shields.io/badge/CSS-e674fb?style=flat&logo=css&logoColor=282a36)
 ![WCAG 2.1 AA](https://img.shields.io/badge/WCAG_2.1_AA-fb74e5?style=flat&logo=w3c&logoColor=282a36)
 
-## find me
+### Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/kirenia)
 - 🎙️ [my website](https://githugs.lol)
