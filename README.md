@@ -1,4 +1,4 @@
-## Hola, I'm kire. I'm a full stack developer in the US.
+## hola, i'm kire, a full stack developer in the US.
 
 <img src="jimothy.gif" alt="jimothy the raccoon, sparkling" width="120" align="right" />
 
